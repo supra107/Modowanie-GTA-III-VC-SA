@@ -76,7 +76,7 @@ Przydatna jest również [biblioteka CLEO](https://cleo.li/), pozwalająca na in
 
 [[Modloader] Atmosphere Interface Pack (SA)](https://sharemods.com/afu7eik3tmzj/Atmosphere_Interface_Pack.7z.html) - Interfejs wysokiej rozdzielczości (Wymagany ModLoader)
 
-[[ASI/Modloader/CLEO] PS2 Features to PC (SA)](https://gtaforums.com/topic/749193-san-andreas-ps2-features-to-pc/) - Zbiór modów przywracających elementy z wersji PS2 do PC (Wymagany ModLoader oraz CLEO)
+[[ASI/Modloader/CLEO] PS2 Features to PC (SA)](https://gtaforums.com/topic/749193-san-andreas-ps2-features-to-pc/) - Zbiór modów przywracających elementy z wersji PS2 do PC
 
 ### 3.4. Dodatkowe źródła modów
 
