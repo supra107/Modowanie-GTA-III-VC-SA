@@ -19,7 +19,7 @@ Poniżej znajdziecie linki do odpowiednich downgrade'erów, oraz instrukcje jak 
 
 ## 3. Modowanie
 
-Na sam początek modowania potrzebujemy loadera skryptów ASI.
+Na sam początek modowania potrzebujemy loadera skryptów ASI. Są to skrypty które głęboko modyfikują działanie gry, co pozwala na wprowadzanie różnych poprawek jak i funkcji.
 
 Do III i Vice City potrzebny jest [Ultimate ASI Loader](https://github.com/ThirteenAG/Ultimate-ASI-Loader/releases/). Należy pobrać archiwum pod tytułem "Ultimate-ASI-Loader.zip".
 
@@ -27,47 +27,56 @@ Do San Andreas wymagany jest [Silent's ASI Loader](https://www.gtagarage.com/mod
 
 Następnie należy utworzyć folder "scripts" w folderze instalacyjnym gry. To w nim należy umieścić wszystkie pliki. asi oraz .ini.
 
+Dodatkowym, zalecanym krokiem jest zainstalowanie skryptu [Modloader](https://github.com/thelink2012/modloader/releases), pozwalającego na instalację modów takich jak samochody, broń, tekstury itp. bez modyfikowania plików gry.
+
+Indywidualne mody należy umieszczać w pojedynczych folder znajdujących się w folderze "modloader".
+
+
+Przydatna jest również [biblioteka CLEO](https://cleo.li/), pozwalająca na instalację skryptów modyfikujących działanie gry. Skrypty te można spokojnie instalować poprzez wyżej wymieniony Modloader.
+
 ### 3.1. Najważniejsze poprawki błędów, trzeba zainstalować
 
-[SilentPatch (III/VC/SA)](https://gtaforums.com/topic/669045-silentpatch/) - Najważniejsze poprawki błędów. Do III/VC należy pobrać również "DDraw Component".
+[[ASI] SilentPatch (III/VC/SA)](https://gtaforums.com/topic/669045-silentpatch/) - Najważniejsze poprawki błędów. Do III/VC należy pobrać również "DDraw Component"
 
-[Widescreen Fix (III/VC/SA)](https://thirteenag.github.io/wfp) - Poprawki interfejsu dla ekranów 16:9
+[[ASI] Widescreen Fix (III/VC/SA)](https://thirteenag.github.io/wfp) - Poprawki interfejsu dla ekranów 16:9
 
-[Framerate Vigilante (III/VC/SA)](https://www.mixmods.com.br/2019/06/framerate-vigilante.html) - Unikanie błędów związanych ze zbyt wysokimi/niskimi klatkami na sekundę
+[[ASI] Framerate Vigilante (III/VC/SA)](https://www.mixmods.com.br/2019/06/framerate-vigilante.html) - Unikanie błędów związanych ze zbyt wysokimi/niskimi klatkami na sekundę
 
-### 3.2. Dodatkowe mody graficzne:
+### 3.2. Mody graficzne:
 
-[SkyGFX (III/VC/SA)](https://gtaforums.com/topic/750681-skygfx-ps2-xbox-and-mobile-graphics-for-pc/) - Efekty graficzne z wersji na PS2, Xbox, oraz Android
+[[ASI] SkyGFX (III/VC/SA)](https://gtaforums.com/topic/750681-skygfx-ps2-xbox-and-mobile-graphics-for-pc/) - Efekty graficzne z wersji na PS2, Xbox, oraz Android
 
-[2DFX (III/VC/SA)](https://thirteenag.github.io/p2dfx) - Polepszone pole widzenia oraz efekty w dali
+[[ASI] 2DFX (III/VC/SA)](https://thirteenag.github.io/p2dfx) - Polepszone pole widzenia oraz efekty w dali
 
-[SharpTrails (III/VC)](https://gtaforums.com/topic/819550-sharptrails/) - Efekty "Trails", czyli efekty rozmycia ruchu
+[[ASI] SharpTrails (III/VC)](https://gtaforums.com/topic/819550-sharptrails/) - Efekty "Trails", czyli efekty rozmycia ruchu
 
-### 3.3. Dodatkowe mody:
+[[ASI] ParticleEx (III/VC)](https://gtaforums.com/topic/913903-particleex/) - Poprawione efekty cząsteczkowe
 
-[Modloader (III/VC/SA)](https://github.com/thelink2012/modloader/releases) - Pozwala na prostą instalację modów bez ingerowania w pliki gry
+### 3.3. Pozostałe mody:
 
-[CLEO Library (III/VC/SA)](https://cleo.li/) - Biblioteka CLEO, wymagana do instalacji skryptów CLEO
+[[ASI] GInput (III/VC/SA)](https://gtaforums.com/topic/562765-ginput/) - Usprawnienia dla graczy korzystających z pada PS/Xbox
 
-[GInput (III/VC/SA)](https://gtaforums.com/topic/562765-ginput/) - Usprawnienia dla graczy korzystających z pada PS/Xbox
+[[ASI] SkyUI (SA)](https://gtaforums.com/topic/899738-skyui/) - Interfejs z PS2 dla PC
 
-[Mod Updater (III/VC/SA)](https://github.com/ThirteenAG/modupdater/releases) - Automatyczna aktualizacja modów
+[[ASI] Mod Updater (III/VC/SA)](https://github.com/ThirteenAG/modupdater/releases) - Automatyczna aktualizacja modów
 
-[Windowed Mode (III/VC/SA)](https://github.com/ThirteenAG/III.VC.SA.WindowedMode/releases) - Możliwość grania w trybie okienkowym
+[[ASI] Windowed Mode (III/VC/SA)](https://github.com/ThirteenAG/III.VC.SA.WindowedMode/releases) - Możliwość grania w trybie okienkowym
 
-[Mouse Wheel Radio Changer (III/VC)](https://www.gtagarage.com/mods/show.php?id=22492) - Zmiana radiostacji za pomocą kółka myszy jak w San Andreas, wymaga GInput
+[[ASI] Improved Fast Loader (SA)](https://gtaforums.com/topic/686694-improved-fast-loader/) - Przyśpieszone ładowanie gry
 
-[Classic Axis (III/VC)](https://gtaforums.com/topic/896122-classic-axis-visual-camera-improvements/) - Zachowanie kamery jak w San Andreas
+[[ASI] Mouse Wheel Radio Changer (III/VC)](https://www.gtagarage.com/mods/show.php?id=22492) - Zmiana radiostacji za pomocą kółka myszy jak w San Andreas, wymaga GInput
 
-[Money Messages (III/VC)](https://www.gtagarage.com/mods/show.php?id=26361) - Informacje o zdobytych pieniądzach w stylu GTA 2
+[[ASI] Classic Axis (III/VC)](https://gtaforums.com/topic/896122-classic-axis-visual-camera-improvements/) - Zachowanie kamery jak w San Andreas
 
-[Destroyable AirTrain (III/VC)](https://www.gtagarage.com/mods/show.php?id=26526) - Możliwość zniszczenia samolotu na lotnisku
+[[ASI] Money Messages (III/VC)](https://www.gtagarage.com/mods/show.php?id=26361) - Informacje o zdobytych pieniądzach w stylu GTA 2
 
-[Rosenberg's Audio Fix (VC)](https://www.gtagarage.com/mods/show.php?id=22234) - Przywraca dialogi Rosenberga przy wyjściu z więzienia
+[[ASI] Destroyable AirTrain (III/VC)](https://www.gtagarage.com/mods/show.php?id=26526) - Możliwość zniszczenia samolotu na lotnisku
 
-[Atmosphere Interface Pack (SA)](https://sharemods.com/afu7eik3tmzj/Atmosphere_Interface_Pack.7z.html) - Interfejs wysokiej rozdzielczości (Wymagany ModLoader)
+[[ASI] Rosenberg's Audio Fix (VC)](https://www.gtagarage.com/mods/show.php?id=22234) - Przywraca dialogi Rosenberga przy wyjściu z więzienia
 
-[PS2 Features to PC (SA)](https://gtaforums.com/topic/749193-san-andreas-ps2-features-to-pc/) - Zbiór modów przywracających elementy z wersji PS2 do PC (Wymagany ModLoader oraz CLEO)
+[[Modloader] Atmosphere Interface Pack (SA)](https://sharemods.com/afu7eik3tmzj/Atmosphere_Interface_Pack.7z.html) - Interfejs wysokiej rozdzielczości (Wymagany ModLoader)
+
+[[ASI/Modloader/CLEO] PS2 Features to PC (SA)](https://gtaforums.com/topic/749193-san-andreas-ps2-features-to-pc/) - Zbiór modów przywracających elementy z wersji PS2 do PC (Wymagany ModLoader oraz CLEO)
 
 ### 3.4. Dodatkowe źródła modów
 
@@ -77,4 +86,4 @@ Następnie należy utworzyć folder "scripts" w folderze instalacyjnym gry. To w
 
 [GTAGarage](https://www.gtagarage.com/mods/index.php) 
 
-[MixMods.com.br](https://translate.google.com/translate?hl=&sl=pt&tl=en&u=https%3A%2F%2Fwww.mixmods.com.br%2F) (Strona po hiszpańsku, załączony link z tłumaczem)
+[MixMods.com.br](https://translate.google.com/translate?hl=&sl=pt&tl=en&u=https%3A%2F%2Fwww.mixmods.com.br%2F) (Strona po portugalsku, załączony link z tłumaczem)
