@@ -31,7 +31,6 @@ Dodatkowym, zalecanym krokiem jest zainstalowanie skryptu [Modloader](https://gi
 
 Indywidualne mody należy umieszczać w pojedynczych folder znajdujących się w folderze "modloader".
 
-
 Przydatna jest również [biblioteka CLEO](https://cleo.li/), pozwalająca na instalację skryptów modyfikujących działanie gry. Skrypty te można spokojnie instalować poprzez wyżej wymieniony Modloader.
 
 ### 3.1. Najważniejsze poprawki błędów, trzeba zainstalować
@@ -41,6 +40,12 @@ Przydatna jest również [biblioteka CLEO](https://cleo.li/), pozwalająca na in
 [[ASI] Widescreen Fix (III/VC/SA)](https://thirteenag.github.io/wfp) - Poprawki interfejsu dla ekranów 16:9
 
 [[ASI] Framerate Vigilante (III/VC/SA)](https://www.mixmods.com.br/2019/06/framerate-vigilante.html) - Unikanie błędów związanych ze zbyt wysokimi/niskimi klatkami na sekundę
+
+[[ASI] RunDLL32.exe Fix (III/VC/SA)](https://www.mixmods.com.br/2016/02/rundll32exe-fix-corrigir-jogo-nao-abrindo.html) - Poprawka błędu związanego z plikiem RunDLL32.exe
+
+[[ASI] NoDEP (III/VC/SA)](https://www.mixmods.com.br/2015/03/nodep-desativar-dep.html) - Poprawka błędu "Data Execution Prevention"
+
+[Largeaddress Patch (II/VC/SA)](https://www.mixmods.com.br/2016/09/largeaddress-reconhecer-4-gb-ram.html) - Patch dla pliku .exe do obsługi większej ilości pamięci, wymagany w bardziej wymagających modach
 
 ### 3.2. Mody graficzne:
 
@@ -52,7 +57,28 @@ Przydatna jest również [biblioteka CLEO](https://cleo.li/), pozwalająca na in
 
 [[ASI] ParticleEx (III/VC)](https://gtaforums.com/topic/913903-particleex/) - Poprawione efekty cząsteczkowe
 
-### 3.3. Pozostałe mody:
+[[ASI] Real Skybox (SA)](https://www.mixmods.com.br/2020/06/real-skybox-ceu-realista.html) - Realistycznie niebo i chmury
+
+[[ASI] Real Linear Graphics (SA)](https://www.mixmods.com.br/2019/05/real-linear-graphics.html) - Realistyczne oświetlenie (wymagany [24H Timecyle](https://www.mixmods.com.br/2017/08/24h-timecycle-timecycdat-de-24-horas.html))
+
+[[ASI] GraphicsTweaker (SA)](https://www.mixmods.com.br/2020/06/graphicstweaker-melhorar-graficos.html) - Poprawka kontrastu grafiki
+
+[[ASI] SkyGrad (SA)](https://www.mixmods.com.br/2015/03/sky-gradient-fix-corrigir-linhas.html) - Polepszony gradient nieba
+
+[[Modloader] RoSA + SRt3 + AI Upscale (SA)](https://www.mixmods.com.br/2020/04/rosa-srt3-ai-upscale-pack-texturas-hd.html) - Tekstury HD (wymagany patch Largeadress, ustawienie "StreamMemory = 512" w MixSets oraz Load  Whole Map)
+
+### 3.3. Mniejsze poprawki błędów:
+
+[[ASI] MixSets (SA)](https://www.mixmods.com.br/2019/08/mod-mixsets.html) - Duży zbiór wielu poprawek z możliwością konfiguracji
+
+[[ASI] MixSets (VC)](https://www.mixmods.com.br/2019/02/VC-MixSets.html) - Wersja MixSets dla Vice City
+
+[[ASI] Rosenberg's Audio Fix (VC)](https://www.gtagarage.com/mods/show.php?id=22234) - Przywraca dialogi Rosenberga przy wyjściu z więzienia
+
+[[CLEO] Gangster Walk Fix (III/VC/SA)](https://www.mixmods.com.br/2019/02/gangster-walk-fix.html) - Poprawka animacji chodzenia z bronią NPCtów
+
+[[Modloader] Animation Fix (SA)](https://www.mixmods.com.br/2017/10/animation-fix-corrigir-bugs-de-animacoes.html) - Poprawka wielu animacji postaci
+### 3.4. Pozostałe mody:
 
 [[ASI] GInput (III/VC/SA)](https://gtaforums.com/topic/562765-ginput/) - Usprawnienia dla graczy korzystających z pada PS/Xbox
 
@@ -72,13 +98,24 @@ Przydatna jest również [biblioteka CLEO](https://cleo.li/), pozwalająca na in
 
 [[ASI] Destroyable AirTrain (III/VC)](https://www.gtagarage.com/mods/show.php?id=26526) - Możliwość zniszczenia samolotu na lotnisku
 
-[[ASI] Rosenberg's Audio Fix (VC)](https://www.gtagarage.com/mods/show.php?id=22234) - Przywraca dialogi Rosenberga przy wyjściu z więzienia
 
 [[Modloader] Atmosphere Interface Pack (SA)](https://sharemods.com/afu7eik3tmzj/Atmosphere_Interface_Pack.7z.html) - Interfejs wysokiej rozdzielczości
 
 [[ASI/Modloader/CLEO] PS2 Features to PC (SA)](https://gtaforums.com/topic/749193-san-andreas-ps2-features-to-pc/) - Zbiór modów przywracających elementy z wersji PS2 do PC
 
-### 3.4. Dodatkowe źródła modów
+[[Modloader] Uncompressed SFX Pack (SA)](https://www.mixmods.com.br/2020/07/Uncompressed-SFX%20Pack.html) - Lepszej jakości efekty dźwiękowe
+
+[[Modloader] Improved Default Armory (SA)](https://www.mixmods.com.br/2019/08/remastered-weapons-armas-melhoradas.html) - Polepszony wygląd standardowych broni
+
+[[ASI] Load Whole Map (SA)](https://www.mixmods.com.br/2016/03/load-whole-map-carregar-todo-o-mapa.html) - Ładowanie całej mapy na raz zamiast oryginalnego ładowania "w locie"
+
+[[ASI] ImprovedMove (SA)](https://www.mixmods.com.br/2019/10/Improved-Move.html) - Kontrola chodzenia w stylu GTA V
+
+[[ASI] FullSprint (SA)](https://www.mixmods.com.br/2019/10/sprinthook.html) - Bieganie pełną prędkością poprzez przytrzymanie klawisza sprintu
+
+[[CLEO] Faster Clothes Change (SA)](https://www.mixmods.com.br/2020/08/faster-clothes-changes-trocar-de-roupa.html) - Szybsza zmiana ubrań
+
+### 3.5. Dodatkowe źródła modów
 
 [GTAForums](https://gtaforums.com/forum/311-mod-showroom/)
 
@@ -86,4 +123,4 @@ Przydatna jest również [biblioteka CLEO](https://cleo.li/), pozwalająca na in
 
 [GTAGarage](https://www.gtagarage.com/mods/index.php) 
 
-[MixMods.com.br](https://translate.google.com/translate?hl=&sl=pt&tl=en&u=https%3A%2F%2Fwww.mixmods.com.br%2F) (Strona po portugalsku, załączony link z tłumaczem)
+[MixMods.com.br](https://translate.google.com/translate?hl=&sl=pt&tl=en&u=https%3A%2F%2Fwww.mixmods.com.br%2F) (Strona po portugalsku, załączony link z tłumaczem, większość linków pobierania działa jedynie [na nietłumaczonej wersji](https://www.mixmods.com.br/))
