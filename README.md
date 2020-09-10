@@ -65,7 +65,7 @@ Przydatna jest również [biblioteka CLEO](https://cleo.li/), pozwalająca na in
 
 [[ASI] SkyGrad (SA)](https://www.mixmods.com.br/2015/03/sky-gradient-fix-corrigir-linhas.html) - Polepszony gradient nieba
 
-[[Modloader] RoSA + SRt3 + AI Upscale (SA)](https://www.mixmods.com.br/2020/04/rosa-srt3-ai-upscale-pack-texturas-hd.html) - Tekstury HD (wymagany patch Largeadress, ustawienie "StreamMemory = 512" w MixSets oraz Load  Whole Map)
+[[Modloader] RoSA + SRt3 + AI Upscale (SA)](https://www.mixmods.com.br/2020/04/rosa-srt3-ai-upscale-pack-texturas-hd.html) - Tekstury HD (wymagany patch Largeadress, ustawienie "StreamMemory = 1024" w MixSets oraz Load  Whole Map)
 
 ### 3.3. Mniejsze poprawki błędów:
 
