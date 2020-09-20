@@ -28,12 +28,23 @@ Do San Andreas wymagany jest [Silent's ASI Loader](https://www.gtagarage.com/mod
 
 Następnie należy utworzyć folder "scripts" w folderze instalacyjnym gry. To w nim należy umieścić wszystkie pliki. asi oraz .ini.
 
-Dodatkowym, zalecanym krokiem jest zainstalowanie skryptu [Modloader](https://github.com/thelink2012/modloader/releases), pozwalającego na instalację modów takich jak samochody, broń, tekstury itp. bez modyfikowania plików gry.
+Wiele modów wymaga również [biblioteki CLEO](https://cleo.li/).
 
-Indywidualne mody należy umieszczać w pojedynczych folder znajdujących się w folderze "modloader".
+Zalecane jest zainstalowanie [Modloadera](https://github.com/thelink2012/modloader/releases), pozwalającego na instalację modów takich jak samochody, broń, tekstury itp. bez modyfikowania plików gry.
 
-Przydatna jest również [biblioteka CLEO](https://cleo.li/), pozwalająca na instalację skryptów modyfikujących działanie gry. Skrypty te można spokojnie instalować poprzez wyżej wymieniony Modloader.
+Aby zainstalować mod, wystarczy utworzyć podkatalog w którym umieścimy pliki modyfikacji, np.
 
+`modloader/folder modyfikacji/pliki.samochodu`
+
+Modloader jest na tyle sprytny, że wystarczy wrzucić do folderu modyfikacji wszelkie pliki readme zawierające linie do podmiany, a Modloader automatycznie je wykryje i zastosuje.
+
+Używając Modloadera można również instalować skrypty ASI oraz CLEO. W przypadku skryptów ASI, można je umieścić bezpośrednio w katalogu dla skryptu, np.
+
+`modloader/folder modyfikacji/skrypt.asi`
+
+W przypadku skryptów CLEO, należy je umieścić w dodatkowym podkatalogu aby uniknąć błędów, np.
+
+`modloader/folder modyfikacji/CLEO/skrypt.cs`
 ### 3.1. Najważniejsze poprawki błędów, trzeba zainstalować
 
 [[ASI] SilentPatch (III/VC/SA)](https://gtaforums.com/topic/669045-silentpatch/) - Najważniejsze poprawki błędów. Do III/VC należy pobrać również "DDraw Component"
