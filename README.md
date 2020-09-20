@@ -5,6 +5,7 @@
 Ten poradnik ma na celu zebranie wszystkich najważniejszych linków potrzebnych do zmodowania gier GTA bazujących na silniki RenderWare w miarę prosty oraz przejrzysty sposób.
 
 Poradnik ten skupia się na wersjach gry z platformy Steam, zatem może być on nietrafny w przypadku wersji z Rockstar Games Social Club, czy też wersji pudełkowych.
+
 ## 2. Downgrade
 
 Pierwszym etapem modowania jest zdowngradeowanie gier do wersji 1.0. Wymagane jest to, ponieważ wersje Steam nie są kompatybilne z wieloma modami które są tu zebrane. Do tego wersja Steam San Andreas ma wyciętą muzykę, także downgrade jest tu jak najbardziej wskazany.
@@ -65,7 +66,9 @@ Przydatna jest również [biblioteka CLEO](https://cleo.li/), pozwalająca na in
 
 [[ASI] SkyGrad (SA)](https://www.mixmods.com.br/2015/03/sky-gradient-fix-corrigir-linhas.html) - Polepszony gradient nieba
 
-[[Modloader] RoSA + SRt3 + AI Upscale (SA)](https://www.mixmods.com.br/2020/04/rosa-srt3-ai-upscale-pack-texturas-hd.html) - Tekstury HD (wymagany patch Largeadress, ustawienie "StreamMemory = 1024" w MixSets oraz Load  Whole Map)
+[[Modloader] RoSA + SRt3 + AI Upscale (SA)](https://www.mixmods.com.br/2020/04/rosa-srt3-ai-upscale-pack-texturas-hd.html) - Tekstury HD (wymagany patch Largeadress, ustawienie "StreamMemory = 1024" w MixSets oraz Load Whole Map)
+
+[[ASI] Shadow Settings Extender (SA)](https://www.mixmods.com.br/2020/03/shadows-settings-extender.html) - Ulepszone cienie obiektów
 
 ### 3.3. Mniejsze poprawki błędów:
 
@@ -78,6 +81,7 @@ Przydatna jest również [biblioteka CLEO](https://cleo.li/), pozwalająca na in
 [[CLEO] Gangster Walk Fix (III/VC/SA)](https://www.mixmods.com.br/2019/02/gangster-walk-fix.html) - Poprawka animacji chodzenia z bronią NPCtów
 
 [[Modloader] Animation Fix (SA)](https://www.mixmods.com.br/2017/10/animation-fix-corrigir-bugs-de-animacoes.html) - Poprawka wielu animacji postaci
+
 ### 3.4. Pozostałe mody:
 
 [[ASI] GInput (III/VC/SA)](https://gtaforums.com/topic/562765-ginput/) - Usprawnienia dla graczy korzystających z pada PS/Xbox
@@ -98,7 +102,6 @@ Przydatna jest również [biblioteka CLEO](https://cleo.li/), pozwalająca na in
 
 [[ASI] Destroyable AirTrain (III/VC)](https://www.gtagarage.com/mods/show.php?id=26526) - Możliwość zniszczenia samolotu na lotnisku
 
-
 [[Modloader] Atmosphere Interface Pack (SA)](https://sharemods.com/afu7eik3tmzj/Atmosphere_Interface_Pack.7z.html) - Interfejs wysokiej rozdzielczości
 
 [[ASI/Modloader/CLEO] PS2 Features to PC (SA)](https://gtaforums.com/topic/749193-san-andreas-ps2-features-to-pc/) - Zbiór modów przywracających elementy z wersji PS2 do PC
@@ -115,12 +118,14 @@ Przydatna jest również [biblioteka CLEO](https://cleo.li/), pozwalająca na in
 
 [[CLEO] Faster Clothes Change (SA)](https://www.mixmods.com.br/2020/08/faster-clothes-changes-trocar-de-roupa.html) - Szybsza zmiana ubrań
 
+[[ASI] Debug Menu (III/VC/SA)](https://www.mixmods.com.br/2020/03/shadows-settings-extender.html) - Menu debugowania z wieloma użytecznymi funkcjami
+
 ### 3.5. Dodatkowe źródła modów
 
 [GTAForums](https://gtaforums.com/forum/311-mod-showroom/)
 
 [GTAInside](https://gtaforums.com/forum/311-mod-showroom/)
 
-[GTAGarage](https://www.gtagarage.com/mods/index.php) 
+[GTAGarage](https://www.gtagarage.com/mods/index.php)
 
 [MixMods.com.br](https://translate.google.com/translate?hl=&sl=pt&tl=en&u=https%3A%2F%2Fwww.mixmods.com.br%2F) (Strona po portugalsku, załączony link z tłumaczem, większość linków pobierania działa jedynie [na nietłumaczonej wersji](https://www.mixmods.com.br/))
