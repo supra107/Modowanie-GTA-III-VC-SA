@@ -120,6 +120,8 @@ Przydatna jest również [biblioteka CLEO](https://cleo.li/), pozwalająca na in
 
 [[ASI] Debug Menu (III/VC/SA)](https://www.mixmods.com.br/2020/03/shadows-settings-extender.html) - Menu debugowania z wieloma użytecznymi funkcjami
 
+[[ASI] Ragdoll Bullet Physics (SA)](https://www.mixmods.com.br/2017/03/mod-ragdoll-bullet-physics-fisica-realista.html) - Fizyka ragdoll dla postaci NPC z wykorzystaniem biblioteki Bullet
+
 ### 3.5. Dodatkowe źródła modów
 
 [GTAForums](https://gtaforums.com/forum/311-mod-showroom/)
